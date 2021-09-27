@@ -1,4 +1,4 @@
-## Lab-01 Git & the Terminal
+# Lab-01 Git & the Terminal
 
 ---
 
